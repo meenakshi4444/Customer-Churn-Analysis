@@ -4,7 +4,8 @@
 This repository contains a **Power BI Dashboard** developed to analyze customer churn and retention patterns for a telecom company. The project focuses on discovering why customers are leaving (churning) and how various factors like contract types and monthly charges affect retention.
 
 ## Dashboard Preview
-![Dashboard Screenshot](![Uploading Dashboard.png.png…]()
+![Dashboard Screenshot](![<img width="1918" height="995" alt="Dashboard png" src="https://github.com/user-attachments/assets/4be75ddb-e166-48e9-8fda-bea66bea2589" />
+]()
 )
 
 ## Key Features & Skills Demonstrated:
